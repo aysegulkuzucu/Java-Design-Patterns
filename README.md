@@ -1,6 +1,3 @@
-# JavaTasarimDesenleri
+# Java-Design-Patterns
 
-Yoğun olarak kullanılan Tasarım Desenlerinden
-Abstract Factory, Adapter, Builder ve Observer 
-Tasarım Desenleri ile küçük uygulamalar gerçekleştirilip
-UML Sınıf diyagramları ile verilmiştir.
+Abstract Factory, Adapter, Builder and Observer Design Patterns with  UML Class diagrams
